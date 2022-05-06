@@ -13,5 +13,9 @@ public class DemoTwo {
 	public void sum(int y, int z) {
 		System.out.println(y+z);
 	}
+	
+	public void substract (int a, int b) {
+		System.out.println(a-b);
+	}
 
 }
